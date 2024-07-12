@@ -24,7 +24,7 @@ submission.csv
 !setup.cfg
 !cfg/yolov3*.cfg
 scripts/
-
+upload
 storage.googleapis.com
 runs/*
 data/*
